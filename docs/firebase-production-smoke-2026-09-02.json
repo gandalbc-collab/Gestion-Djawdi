@@ -1,0 +1,10 @@
+{
+  "executed_at": "2026-09-02",
+  "environment": "https://gestion-djawdi.web.app",
+  "health_status": 200,
+  "authenticated_user_accepted": true,
+  "standard_user_admin_denied": true,
+  "temporary_account_disabled": true,
+  "temporary_document_deleted": true,
+  "notes": "Smoke test effectué avec un compte Firebase temporaire confirmé par l'API d'administration Google, désactivé et supprimé de Firestore après la vérification. Aucun jeton, mot de passe ou identifiant de session n'est conservé dans cet artefact."
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Djawdi — Gestion Financière",
+  "short_name": "Djawdi",
+  "description": "Suivez vos revenus, dépenses, budgets et épargne avec Djawdi.",
+  "lang": "fr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#047857",
+  "icons": [
+    {
+      "src": "/manus-storage/djawdi-pwa-192_35a1cfcd.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/manus-storage/djawdi-pwa-512_7910eed9.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

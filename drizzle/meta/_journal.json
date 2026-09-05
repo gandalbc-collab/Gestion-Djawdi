@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1785143351351,
+      "tag": "0000_optimal_boom_boom",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1785143523210,
+      "tag": "0001_medical_war_machine",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1785147754747,
+      "tag": "0002_eager_omega_flight",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1785152020289,
+      "tag": "0003_polite_skreet",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1785153568601,
+      "tag": "0004_freezing_toad",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1785157366054,
+      "tag": "0005_glorious_gamora",
+      "breakpoints": true
+    }
+  ]
+}

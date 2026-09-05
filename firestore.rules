@@ -1,0 +1,13 @@
+rules_version = '2';
+
+// All financial and administrative operations pass through the verified
+// Firebase ID token + server-side tRPC API. Client SDK access is deliberately
+// denied by default; the Admin SDK used by the API is not constrained by these
+// rules and performs the authorization checks in server/routers.ts.
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
